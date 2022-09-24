@@ -1,7 +1,7 @@
 # New_project
 
 ## How to contribute
--Fork this project 
+- Fork this project 
   - If you don't know how, don't panic! It's covered in an additional chapter of book.
 - Make your changes
 - Submit a pull request
